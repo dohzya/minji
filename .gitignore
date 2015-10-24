@@ -1,0 +1,6 @@
+/logs
+/modules/*/target
+/project/project/
+/project/target/
+/RUNNING_PID
+/target
